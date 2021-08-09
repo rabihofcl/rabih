@@ -1190,3 +1190,35 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#name, #email, #message, #mobile{
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0px 0px 1px black;
+}
+#name, #email, #mobile{
+  height: 30px;
+}
+
+.submitbutton{
+  width: 100%;
+  border: none;
+  border-radius: 15px;
+  padding: 5px 20px;
+  background-color: #0275d8;
+}
